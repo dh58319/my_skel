@@ -1,0 +1,13 @@
+alias dim='docker images'
+alias dps='docker ps -a'
+
+alias cl='clear'
+alias nv='nvitop --interval 1 --colorful'
+alias tl='tmux ls'
+alias ta='tmux attach -t'
+alias tn='tmux new -s'
+alias tk='tmux kill-session'
+alias pt='python'
+alias tpl='tmuxp load'
+alias pp='mlr --icsv --opprint --barred cat'
+alias zr="source ~/.zshrc"
